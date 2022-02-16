@@ -1,0 +1,3 @@
+[submodule "26-code-structuring-for-bigger-projects/src/three.js-gist"]
+	path = 26-code-structuring-for-bigger-projects/src/three.js-gist
+	url = https://github.com/momentchan/three.js-gist.git
