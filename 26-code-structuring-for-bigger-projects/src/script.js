@@ -1,4 +1,6 @@
-import Experience from './three.js-gist/Experience.js'
 import './style.css'
+import ExperienceSample from './three.js-gist/Sample/ExperienceSample'
 
-const experience = new Experience(document.querySelector('canvas.webgl'))
+import sources from './three.js-gist/Sample/sources.js'
+
+const experience = new ExperienceSample(document.querySelector('canvas.webgl'), sources)
