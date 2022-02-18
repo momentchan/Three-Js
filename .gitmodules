@@ -7,3 +7,9 @@
 [submodule "05-transform-objects/src/three.js-template"]
 	path = 05-transform-objects/src/three.js-template
 	url = https://github.com/momentchan/three.js-template.git
+[submodule "06-animations/src/three.js-template"]
+	path = 06-animations/src/three.js-template
+	url = https://github.com/momentchan/three.js-template.git
+[submodule "06-animations/src/three.js-gist"]
+	path = 06-animations/src/three.js-gist
+	url = https://github.com/momentchan/three.js-gist.git
