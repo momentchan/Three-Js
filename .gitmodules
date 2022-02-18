@@ -13,3 +13,9 @@
 [submodule "06-animations/src/three.js-gist"]
 	path = 06-animations/src/three.js-gist
 	url = https://github.com/momentchan/three.js-gist.git
+[submodule "07-cameras/src/three.js-template"]
+	path = 07-cameras/src/three.js-template
+	url = https://github.com/momentchan/three.js-template.git
+[submodule "07-cameras/src/three.js-gist"]
+	path = 07-cameras/src/three.js-gist
+	url = https://github.com/momentchan/three.js-gist.git
