@@ -1,8 +1,8 @@
 import * as THREE from 'three'
-import World from "../three.js-gist/World/World"
+import WorldBase from "../three.js-gist/World/WorldBase"
 import gsap from 'gsap'
 
-export default class WorldTemplate extends World {
+export default class WorldTemplate extends WorldBase {
     constructor(experience) {
         super(experience)
 

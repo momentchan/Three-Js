@@ -1,7 +1,7 @@
 import * as THREE from 'three'
-import Renderer from "../three.js-gist/Common/Renderer"
+import RendererBase from "../three.js-gist/Common/RendererBase"
 
-export default class RendererTemplate extends Renderer {
+export default class RendererTemplate extends RendererBase {
     setInstance() {
         super.setInstance()
     }

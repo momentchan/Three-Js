@@ -1,10 +1,10 @@
 import * as THREE from 'three'
-import Experience from "../three.js-gist/Common/Experience"
+import ExperienceBase from "../three.js-gist/Common/ExperienceBase"
 import Renderer07 from "./Renderer07"
 import Camera07 from "./Camera07";
 import World07 from "./World07";
 
-export default class Experience07 extends Experience {
+export default class Experience07 extends ExperienceBase {
     constructor(canvas, sources) {
         super(canvas, sources)
 

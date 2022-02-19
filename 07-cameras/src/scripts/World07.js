@@ -1,7 +1,7 @@
 import * as THREE from 'three'
-import World from "../three.js-gist/World/World"
+import WorldBase from "../three.js-gist/World/WorldBase"
 
-export default class World07 extends World {
+export default class World07 extends WorldBase {
     constructor(experience) {
         super(experience)
         this.time = this.experience.time
