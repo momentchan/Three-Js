@@ -10,6 +10,9 @@
 [submodule "07-cameras/src/three.js-gist"]
 	path = 07-cameras/src/three.js-gist
 	url = https://github.com/momentchan/three.js-gist.git
+[submodule "08-fullscreen-and-resizing/src/three.js-gist"]
+	path = 08-fullscreen-and-resizing/src/three.js-gist
+	url = https://github.com/momentchan/three.js-gist.git
 [submodule "three.js-template"]
 	path = three.js-template
 	url = https://github.com/momentchan/three.js-template.git
