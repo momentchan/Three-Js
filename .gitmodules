@@ -16,3 +16,6 @@
 [submodule "three.js-template"]
 	path = three.js-template
 	url = https://github.com/momentchan/three.js-template.git
+[submodule "09-geometries/src/three.js-gist"]
+	path = 09-geometries/src/three.js-gist
+	url = https://github.com/momentchan/three.js-gist.git
