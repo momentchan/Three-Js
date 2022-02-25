@@ -25,3 +25,6 @@
 [submodule "11-textures/src/three.js-gist"]
 	path = 11-textures/src/three.js-gist
 	url = https://github.com/momentchan/three.js-gist.git
+[submodule "12-materials/src/three.js-gist"]
+	path = 12-materials/src/three.js-gist
+	url = https://github.com/momentchan/three.js-gist.git
