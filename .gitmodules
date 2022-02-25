@@ -22,3 +22,6 @@
 [submodule "10-debug-ui/three.js-gist"]
 	path = 10-debug-ui/src/three.js-gist
 	url = https://github.com/momentchan/three.js-gist.git
+[submodule "11-textures/src/three.js-gist"]
+	path = 11-textures/src/three.js-gist
+	url = https://github.com/momentchan/three.js-gist.git
