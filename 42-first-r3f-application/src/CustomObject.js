@@ -28,6 +28,6 @@ export default function CustomObject() {
                 array={positions}
             />
         </bufferGeometry>
-        <meshStandardMaterial color="red" side={THREE.DoubleSide} />
+        <meshBasicMaterial color="red" side={THREE.DoubleSide} />
     </mesh>
 }
