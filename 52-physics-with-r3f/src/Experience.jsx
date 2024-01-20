@@ -40,7 +40,7 @@ export default function Experience() {
         // hitSound.play()
     }
 
-    const cubesCount = 100
+    const cubesCount = 300
     // const cubes = useRef()
     // useEffect(() => {
     //     for (let i = 0; i < cubesCount; i++) {
